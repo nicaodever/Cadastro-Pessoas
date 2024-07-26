@@ -7,6 +7,6 @@
 <h3> Desenvolvedores</h3>
 
 <p>Curso: Desenvolvimento de Software</p>
-<p>Alunos: Cassio Tavares, Nicolas Pimentel<\p>
+<p>Alunos: Cassio Tavares, Nicolas Pimentel</p>
 
   <img src="https://github.com/user-attachments/assets/e777939f-bef6-4062-bb70-a661890d6806"/>
